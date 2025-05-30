@@ -1,6 +1,8 @@
-# Análise de Desempenho Alura Store
+# 📊 Análise de Desempenho Alura Store 
 
-Este reposítorio condensa uma análise exploratória de dados(EDA) de 4 lojas para auxiliar na tomada de decisão. Este projeto faz parte da formação em Data Science do programa Oracle Next Education + Alura 
+![capa](3862882.jpg)
+
+Este reposiório condensa uma análise exploratória de dados(EDA) de 4 lojas para auxiliar na tomada de decisão. Este projeto faz parte da formação em Data Science do programa Oracle Next Education + Alura 
 
 ## 📌 Visão Geral
 Este projeto visa analisar os dados de 4 lojas para entender qual loja deve ser vendida e os motivos que sustentam a escolha, tudo baseado em dados. Utilizei técnicas de análise de dados, como a análise exploratória de dados(EDA) para compreender os dados históricos das lojas e com isso conseguir auxiliar o dono da empresa a tomar a melhor decisão estratégica. 
