@@ -25,7 +25,7 @@ Durante este desafio, você irá ajudar o Senhor João a decidir qual loja da su
 
  --- 
 
- ## 📈 Insights e Conclusões  
+ ## 📈 Principais Análises
 
  ### Faturamento 
 Na análise de faturamento observou-se que na análise de cerca de 2359 vendas em cada uma das lojas o faturamento bruto foi maior na loja 1 e ticket médio já a loja que apresentou o menor faturamento foi a loja 4, conforme foi possível verificar com o gráfico.  
